@@ -1,0 +1,34 @@
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Menaxhuesi i Artikujve\Menaxhuesi i Artikujve\bin\Debug\Menaxhuesi i Artikujve.exe
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Menaxhuesi i Artikujve\Menaxhuesi i Artikujve\bin\Debug\Menaxhuesi i Artikujve.pdb
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Menaxhuesi i Artikujve\Menaxhuesi i Artikujve\bin\Debug\sq\Menaxhuesi i Artikujve.resources.dll
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Menaxhuesi i Artikujve\Menaxhuesi i Artikujve\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Menaxhuesi i Artikujve\Menaxhuesi i Artikujve\obj\Debug\Menaxhuesi_i_Artikujve.frmMenaxhmenti.resources
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Menaxhuesi i Artikujve\Menaxhuesi i Artikujve\obj\Debug\Menaxhuesi_i_Artikujve.Properties.Resources.resources
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Menaxhuesi i Artikujve\Menaxhuesi i Artikujve\obj\Debug\Menaxhuesi_i_Artikujve.frmRrethProgramit.resources
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Menaxhuesi i Artikujve\Menaxhuesi i Artikujve\obj\Debug\Menaxhuesi i Artikujve.csproj.GenerateResource.Cache
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Menaxhuesi i Artikujve\Menaxhuesi i Artikujve\obj\Debug\sq\Menaxhuesi i Artikujve.resources.dll
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Menaxhuesi i Artikujve\Menaxhuesi i Artikujve\obj\Debug\Menaxhuesi i Artikujve.exe
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Menaxhuesi i Artikujve\Menaxhuesi i Artikujve\obj\Debug\Menaxhuesi i Artikujve.pdb
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Menaxhuesi i Artikujve\Menaxhuesi i Artikujve\obj\Debug\Menaxhuesi_i_Artikujve.frmListimi.resources
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Menaxhuesi i Artikujve\Menaxhuesi i Artikujve\obj\Debug\Menaxhuesi_i_Artikujve.frmListimi.sq.resources
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Menaxhuesi i Artikujve\Menaxhuesi i Artikujve\bin\Debug\Menaxhuesi i Artikujve.exe.manifest
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Menaxhuesi i Artikujve\Menaxhuesi i Artikujve\bin\Debug\Menaxhuesi i Artikujve.application
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Menaxhuesi i Artikujve\Menaxhuesi i Artikujve\obj\Debug\Menaxhuesi i Artikujve.exe.manifest
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Menaxhuesi i Artikujve\Menaxhuesi i Artikujve\obj\Debug\Menaxhuesi i Artikujve.application
+C:\Users\trim.kadriu\Desktop\Solution File\Menaxhuesi i Artikujve\obj\Debug\Menaxhuesi i Artikujve.exe
+C:\Users\trim.kadriu\Desktop\Solution File\Menaxhuesi i Artikujve\obj\Debug\Menaxhuesi i Artikujve.pdb
+C:\Users\trim.kadriu\Desktop\Solution File\Menaxhuesi i Artikujve\obj\Debug\Menaxhuesi i Artikujve.csprojResolveAssemblyReference.cache
+C:\Users\trim.kadriu\Desktop\Solution File\Menaxhuesi i Artikujve\obj\Debug\Menaxhuesi_i_Artikujve.frmMenaxhmenti.resources
+C:\Users\trim.kadriu\Desktop\Solution File\Menaxhuesi i Artikujve\obj\Debug\Menaxhuesi_i_Artikujve.frmListimi.resources
+C:\Users\trim.kadriu\Desktop\Solution File\Menaxhuesi i Artikujve\obj\Debug\Menaxhuesi_i_Artikujve.Properties.Resources.resources
+C:\Users\trim.kadriu\Desktop\Solution File\Menaxhuesi i Artikujve\obj\Debug\Menaxhuesi_i_Artikujve.frmRrethProgramit.resources
+C:\Users\trim.kadriu\Desktop\Solution File\Menaxhuesi i Artikujve\obj\Debug\Menaxhuesi_i_Artikujve.frmListimi.sq.resources
+C:\Users\trim.kadriu\Desktop\Solution File\Menaxhuesi i Artikujve\obj\Debug\Menaxhuesi i Artikujve.csproj.GenerateResource.Cache
+C:\Users\trim.kadriu\Desktop\Solution File\Menaxhuesi i Artikujve\bin\Debug\Menaxhuesi i Artikujve.exe.manifest
+C:\Users\trim.kadriu\Desktop\Solution File\Menaxhuesi i Artikujve\bin\Debug\Menaxhuesi i Artikujve.application
+C:\Users\trim.kadriu\Desktop\Solution File\Menaxhuesi i Artikujve\bin\Debug\Menaxhuesi i Artikujve.exe
+C:\Users\trim.kadriu\Desktop\Solution File\Menaxhuesi i Artikujve\bin\Debug\Menaxhuesi i Artikujve.pdb
+C:\Users\trim.kadriu\Desktop\Solution File\Menaxhuesi i Artikujve\bin\Debug\sq\Menaxhuesi i Artikujve.resources.dll
+C:\Users\trim.kadriu\Desktop\Solution File\Menaxhuesi i Artikujve\obj\Debug\sq\Menaxhuesi i Artikujve.resources.dll
+C:\Users\trim.kadriu\Desktop\Solution File\Menaxhuesi i Artikujve\obj\Debug\Menaxhuesi i Artikujve.exe.manifest
+C:\Users\trim.kadriu\Desktop\Solution File\Menaxhuesi i Artikujve\obj\Debug\Menaxhuesi i Artikujve.application
